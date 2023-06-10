@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/651954936.svg)](https://zenodo.org/badge/latestdoi/651954936)
+
 This repository contains the data and code accompanying the paper:
 
 > Interacting ecological filters influence success and functional composition in restored plant communities over time
