@@ -2,8 +2,3 @@
 .idea
 *.log
 tmp/
-
-
-*.pdf
-results
-results/*
