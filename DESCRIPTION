@@ -1,0 +1,7 @@
+Type: project
+Description: Loma Ridge functional traits project.
+Depends:
+    brms,
+    ggthemes,
+    glue,
+    tidyverse
